@@ -1,2 +1,9 @@
 My name is Pankaj Sahi it is my second code in this series. 
 i am a full stack developer at learning phase  codeHelp channel By LoveBabbar Bhaiya.
+
+My Frontend Journey
+HTML
+CSS
+TailwindCss
+JavaScript
+        I also completed at all learning skills .
