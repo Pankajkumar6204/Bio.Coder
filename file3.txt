@@ -7,4 +7,4 @@ CSS
 TailwindCss
 JavaScript
         I also completed at all learning skills .
-this is your new codes
+this is your new codes and old codes learning phase of Git and Github.
