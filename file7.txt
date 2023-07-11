@@ -1,1 +1,3 @@
-pankaj kumar codes for learning git
+pankaj kumar codes for learning git and Github 
+It is my learning phase git commit and more efficient way
+
